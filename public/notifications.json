@@ -1,0 +1,39 @@
+[
+  {
+    "id": 6,
+    "title": "Share devices",
+    "body": "Spread the love, share your devices.",
+    "active": true,
+    "created": "2019-10-14T18:25:43.511Z"
+  },{
+    "id": 5,
+    "title": "Download the app ",
+    "body": "Control your devices on the go, download the app.",
+    "active": true,
+    "created": "2019-10-14T18:25:43.511Z"
+  },{
+    "id": 4,
+    "title": "Add some devices",
+    "body": "Add some devices to control and gather data from.",
+    "active": true,
+    "created": "2019-10-14T18:25:43.511Z"
+  },{
+    "id": 3,
+    "title": "Please update your profile",
+    "body": "Update your profile.",
+    "active": true,
+    "created": "2019-10-14T18:25:43.511Z"
+  },{
+    "id": 2,
+    "title": "Please update your billing",
+    "body": "Please add a payment. Adding a payment allows you to continue with the trial.",
+    "active": true,
+    "created": "2019-10-14T18:25:43.511Z"
+  },{
+    "id": 1,
+    "title": "Welcome",
+    "body": "Thank you for choosing LuGa for you IoT integration",
+    "active": true,
+    "created": "2019-10-14T18:25:43.511Z"
+  }
+]
